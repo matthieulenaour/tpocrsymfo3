@@ -1,0 +1,715 @@
+
+†php:S104"zFile "appDevDebugProjectContainer.php" has 3811 lines, which is greater than 1000 authorized. Split it into smaller files.
+qphp:S101"_Rename class "appDevDebugProjectContainer" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(÷âèÇ
+‹	php:S1448"xClass "appDevDebugProjectContainer" has 239 methods, which is greater than 20 authorized. Split it into smaller classes.(÷âèÇ
+l	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(õô¸´ÿÿÿÿÿ
+g	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(‚÷µÔ
+m	php:S3776"URefactor this function to reduce its Cognitive Complexity from 201 to the 15 allowed.(¬Âˆêüÿÿÿÿ
+f	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(Í‰“B
+l	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(×û‡ıûÿÿÿÿ
+l	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 63 to the 15 allowed.(Ûöğ®ùÿÿÿÿ
+g	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.(Õ€û
+g	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(Ì•«
+f	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 53 to the 15 allowed.(Üj
+g	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 44 to the 15 allowed.(¤ıÍş
+l	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(»ÏÒâşÿÿÿÿ
+	php:S1192"iDefine a constant instead of duplicating this literal "sensio_framework_extra.converter.manager" 5 times.(€ÚÇ„üÿÿÿÿ
+i	php:S1192"VDefine a constant instead of duplicating this literal "fragment.renderer.ssi" 5 times.(½ì¸”
+v	php:S1192"cDefine a constant instead of duplicating this literal "doctrine.orm.validator_initializer" 5 times.(óÄŠˆ
+}	php:S1192"eDefine a constant instead of duplicating this literal "form.type_extension.upload.validator" 7 times.(é¶ğ«ÿÿÿÿÿ
+t	php:S1192"\Define a constant instead of duplicating this literal "monolog.handler.server_log" 36 times.(Òù²ıÿÿÿÿ
+v	php:S1192"^Define a constant instead of duplicating this literal "doctrine.orm.validator.unique" 9 times.(˜Ï³¿ùÿÿÿÿ
+s	php:S1192"[Define a constant instead of duplicating this literal "form.resolved_type_factory" 8 times.(®Èåòşÿÿÿÿ
+m	php:S1192"ZDefine a constant instead of duplicating this literal "form_div_layout.html.twig" 3 times.(ïèïˆ
+k	php:S1192"SDefine a constant instead of duplicating this literal "annotations.reader" 7 times.(üŸÂûÿÿÿÿ
+`	php:S1192"HDefine a constant instead of duplicating this literal "kernel" 19 times.(êëÕëûÿÿÿÿ
+o	php:S1192"WDefine a constant instead of duplicating this literal "sUxlkSXiRsS1TFHuZeg4ry" 4 times.(êëô‘ùÿÿÿÿ
+o	php:S1192"WDefine a constant instead of duplicating this literal "monolog.logger.console" 5 times.(¸Ë¯´ÿÿÿÿÿ
+i	php:S1192"VDefine a constant instead of duplicating this literal "onKernelFinishRequest" 3 times.(˜âˆú
+{	php:S1192"hDefine a constant instead of duplicating this literal "security.authentication.trust_resolver" 11 times.(êÇç­
+k	php:S1192"SDefine a constant instead of duplicating this literal "cache.annotations" 16 times.(‚±öûøÿÿÿÿ
+c	php:S1192"PDefine a constant instead of duplicating this literal "assets.packages" 5 times.(óÄÌÅ
+{	php:S1192"hDefine a constant instead of duplicating this literal "form.type_extension.form.data_collector" 5 times.(è½‚é
+f	php:S1192"NDefine a constant instead of duplicating this literal "form.registry" 5 times.(³¾Èôÿÿÿÿÿ
+Œ	php:S1192"zDefine a constant instead of duplicating this literal "doctrine_cache.providers.doctrine.orm.default_query_cache" 6 times.(¨±ú
+|	php:S1192"iDefine a constant instead of duplicating this literal "form.type_extension.form.http_foundation" 7 times.(Ğ”ö
+†	php:S1192"nDefine a constant instead of duplicating this literal "doctrine.orm.default_entity_listener_resolver" 5 times.(é‚Ô‡ıÿÿÿÿ
+g	php:S1192"ODefine a constant instead of duplicating this literal "request_stack" 39 times.(šÜë¯ıÿÿÿÿ
+	php:S1192"nDefine a constant instead of duplicating this literal "sensio_framework_extra.converter.doctrine.orm" 5 times.(ç€¢
+y	php:S1192"fDefine a constant instead of duplicating this literal "security.rememberme.response_listener" 5 times.(çïò
+v	php:S1192"^Define a constant instead of duplicating this literal "data_collector.form.extractor" 5 times.(¢âÎÕÿÿÿÿÿ
+d	php:S1192"QDefine a constant instead of duplicating this literal "cache.validator" 14 times.(ò¤Îö
+m	php:S1192"ZDefine a constant instead of duplicating this literal "argument_resolver.session" 5 times.(¤ı†í
+	php:S1192"uDefine a constant instead of duplicating this literal "swiftmailer.mailer.default.transport.eventdispatcher" 7 times.(¯å‡Öüÿÿÿÿ
+p	php:S1192"XDefine a constant instead of duplicating this literal "monolog.logger.security" 5 times.(ôîÚ÷ÿÿÿÿÿ
+u	php:S1192"bDefine a constant instead of duplicating this literal "security.firewall.map.context.dev" 7 times.(çÁù±
+h	php:S1192"PDefine a constant instead of duplicating this literal "locale_listener" 8 times.(ş—â™úÿÿÿÿ
+œ	php:S1192"ƒDefine a constant instead of duplicating this literal "2_81d5aba8e3a3496bcc81e639ebe98e0631edea85628406c5d64731c423d6dbea" 5 times.(ÏÚû¦şÿÿÿÿ
+o	php:S1192"WDefine a constant instead of duplicating this literal "data_collector.router" 10 times.(°í°Ğùÿÿÿÿ
+e	php:S1192"SDefine a constant instead of duplicating this literal "profiler_listener" 11 times.(ô‡ø
+k	php:S1192"XDefine a constant instead of duplicating this literal "security.role_hierarchy" 9 times.(â¼€Õ
+ˆ	php:S1192"pDefine a constant instead of duplicating this literal "swiftmailer.mailer.default.plugin.messagelogger" 6 times.(•Ñ×ûÿÿÿÿ
+n	php:S1192"[Define a constant instead of duplicating this literal "web_profiler.debug_toolbar" 5 times.(öì¢
+c	php:S1192"PDefine a constant instead of duplicating this literal "session.handler" 8 times.(Ûˆ¡®
+x	php:S1192"eDefine a constant instead of duplicating this literal "twig.controller.exception:showAction" 4 times.(ïèïˆ
+o	php:S1192"\Define a constant instead of duplicating this literal "security.csrf.token_manager" 8 times.(ìÇÆÊ
+z	php:S1192"gDefine a constant instead of duplicating this literal "doctrine.dbal.logger.profiling.default" 7 times.(À¾åÆ
+j	php:S1192"RDefine a constant instead of duplicating this literal "response_listener" 5 times.(¦¨óìıÿÿÿÿ
+{	php:S1192"cDefine a constant instead of duplicating this literal "resolve_controller_name_subscriber" 5 times.(ÒÃ—Éşÿÿÿÿ
+f	php:S1192"SDefine a constant instead of duplicating this literal "annotation_reader" 11 times.(´ñ›–
+¤	php:S1192"Define a constant instead of duplicating this literal "sf2orm_default_3bae4e7bf70b1fa1e39e29a003b3326c5526c5a011d563c5400e667d15215e23" 3 times.(ş‘‚Æ
+„	php:S1192"qDefine a constant instead of duplicating this literal "service_locator.e64d23c3bf770e2cf44b71643280668d" 5 times.(ùÓÉà
+c	php:S1192"KDefine a constant instead of duplicating this literal "validators" 4 times.(ì«Õşÿÿÿÿÿ
+r	php:S1192"ZDefine a constant instead of duplicating this literal "argument_resolver.request" 5 times.(ƒ½½³úÿÿÿÿ
+{	php:S1192"cDefine a constant instead of duplicating this literal "security.firewall.map.context.main" 7 times.(ûĞûÿÿÿÿ
+o	php:S1192"WDefine a constant instead of duplicating this literal "templating.name_parser" 8 times.(ÆÉÅııÿÿÿÿ
+^	php:S1192"FDefine a constant instead of duplicating this literal "cache" 4 times.(èÅ…úÿÿÿÿ
+ˆ	php:S1192"pDefine a constant instead of duplicating this literal "security.authentication.provider.anonymous.main" 5 times.(“É®Âúÿÿÿÿ
+e	php:S1192"RDefine a constant instead of duplicating this literal "validator.builder" 8 times.(‹Î¯ñ
+m	php:S1192"UDefine a constant instead of duplicating this literal "validator.expression" 9 times.(¯Ö£ÿÿÿÿÿ
+a	php:S1192"IDefine a constant instead of duplicating this literal "default" 11 times.(¶³Òôüÿÿÿÿ
+d	php:S1192"LDefine a constant instead of duplicating this literal "http_kernel" 8 times.(ïğüÿÿÿÿ
+b	php:S1192"ODefine a constant instead of duplicating this literal "assets.context" 5 times.(éªê»
+f	php:S1192"SDefine a constant instead of duplicating this literal "form.server_params" 7 times.(ˆôÚì
+j	php:S1192"XDefine a constant instead of duplicating this literal "router.request_context" 11 times.(åÈ‰
+m	php:S1192"UDefine a constant instead of duplicating this literal "monolog.logger.event" 5 times.(ÈŠÕ»úÿÿÿÿ
+e	php:S1192"RDefine a constant instead of duplicating this literal "property_accessor" 8 times.(ıÓ¢á
+	php:S1192"{Define a constant instead of duplicating this literal "doctrine_cache.providers.doctrine.orm.default_result_cache" 6 times.(ŸË™Ó
+	php:S1192"mDefine a constant instead of duplicating this literal "sensio_distribution.security_checker.command" 3 times.(¦ßÓZ
+i	php:S1192"VDefine a constant instead of duplicating this literal "kernel.finish_request" 3 times.(®ŠìÃ
+n	php:S1192"[Define a constant instead of duplicating this literal "argument_resolver.variadic" 5 times.(¹ø¾›
+i	php:S1192"VDefine a constant instead of duplicating this literal "security.firewall.map" 7 times.(“„¾ê
+m	php:S1192"ZDefine a constant instead of duplicating this literal "debug.file_link_formatter" 9 times.(‚Œ€´
+w	php:S1192"_Define a constant instead of duplicating this literal "ThisTokenIsNotSoSecretChangeIt" 3 times.(šıÊÒüÿÿÿÿ
+h	php:S1192"PDefine a constant instead of duplicating this literal "validator.email" 5 times.(İÃ¸Ãùÿÿÿÿ
+g	php:S1192"TDefine a constant instead of duplicating this literal "data_collector.dump" 7 times.(÷‹ûÅ
+`	php:S1192"NDefine a constant instead of duplicating this literal "cache.system" 14 times.(£ÓĞn
+}	php:S1192"eDefine a constant instead of duplicating this literal "form.type_extension.submit.validator" 7 times.(×ƒ¢èşÿÿÿÿ
+_	php:S1192"GDefine a constant instead of duplicating this literal "logger" 7 times.(¶¡±øÿÿÿÿÿ
+h	php:S1192"PDefine a constant instead of duplicating this literal "onKernelRequest" 7 times.(ÈÑü÷ÿÿÿÿÿ
+m	php:S1192"ZDefine a constant instead of duplicating this literal "argument_resolver.default" 5 times.(ÜÖïŒ
+»	php:S1192"¢Define a constant instead of duplicating this literal "security.request_matcher.5314eeb91110adf24b9b678372bb11bbe00e8858c519c088bfb65f525181ad3bf573fd1d" 6 times.(…öë›øÿÿÿÿ
+k	php:S1192"SDefine a constant instead of duplicating this literal "onKernelController" 7 times.(©Ôüòøÿÿÿÿ
+_	php:S1192"LDefine a constant instead of duplicating this literal "translator" 14 times.(éÉõ‰
+r	php:S1192"ZDefine a constant instead of duplicating this literal "fragment.renderer.inline" 11 times.(©ÓœÌıÿÿÿÿ
+g	php:S1192"ODefine a constant instead of duplicating this literal "form.type.form" 7 times.(Ø ½Çşÿÿÿÿ
+r	php:S1192"ZDefine a constant instead of duplicating this literal "controller_name_converter" 9 times.(·Ùğ»şÿÿÿÿ
+t	php:S1192"aDefine a constant instead of duplicating this literal "doctrine.dbal.connection_factory" 5 times.(»Ìà¤
+m	php:S1192"ZDefine a constant instead of duplicating this literal "security.encoder_factory" 11 times.(ÿ ˜¥
+e	php:S1192"RDefine a constant instead of duplicating this literal "security.firewall" 8 times.(„©ã
+k	php:S1192"XDefine a constant instead of duplicating this literal "debug.event_dispatcher" 24 times.(ö˜€Ö
+Ÿ	php:S1192"‹Define a constant instead of duplicating this literal "console.command.symfony_bundle_webserverbundle_command_serverstatuscommand" 4 times.(¿•êû
+i	php:S1192"QDefine a constant instead of duplicating this literal "onKernelResponse" 8 times.(ÒŞ—øÿÿÿÿ
+e	php:S1192"RDefine a constant instead of duplicating this literal "kernel.controller" 7 times.(¼¤Ù„
+m	php:S1192"ZDefine a constant instead of duplicating this literal "debug.controller_resolver" 5 times.(¸™é­
+k	php:S1192"XDefine a constant instead of duplicating this literal "debug.argument_resolver" 8 times.(öÏğ€
+n	php:S1192"[Define a constant instead of duplicating this literal "streamed_response_listener" 5 times.(»Ó¥
+y	php:S1192"aDefine a constant instead of duplicating this literal "doctrine.dbal.default_connection" 8 times.(‘Û†×şÿÿÿÿ
+b	php:S1192"ODefine a constant instead of duplicating this literal "kernel.request" 8 times.(î„û÷
+`	php:S1192"HDefine a constant instead of duplicating this literal "request" 3 times.(Îñç¡ÿÿÿÿÿ
+h	php:S1192"PDefine a constant instead of duplicating this literal "kernel.response" 8 times.(¡”§üûÿÿÿÿ
+e	php:S1192"MDefine a constant instead of duplicating this literal "twig.profile" 8 times.(à±™úıÿÿÿÿ
+¡	php:S1192"ˆDefine a constant instead of duplicating this literal "console.command.symfony_bundle_webserverbundle_command_serverruncommand" 4 times.(ëûœÄüÿÿÿÿ
+c	php:S1192"QDefine a constant instead of duplicating this literal "session_listener" 5 times.(ŞŞº
+[	php:S1192"HDefine a constant instead of duplicating this literal "parent" 13 times.(‡øôñ
+d	php:S1192"QDefine a constant instead of duplicating this literal "debug.stopwatch" 23 times.(Á´×¢
+‚	php:S1192"jDefine a constant instead of duplicating this literal "doctrine.orm.default_manager_configurator" 5 times.(¿”ôÄÿÿÿÿÿ
+y	php:S1192"aDefine a constant instead of duplicating this literal "security.validator.user_password" 9 times.(˜¢ƒÍüÿÿÿÿ
+	php:S1192"}Define a constant instead of duplicating this literal "doctrine_cache.providers.doctrine.orm.default_metadata_cache" 6 times.(‚É¶|
+q	php:S1192"YDefine a constant instead of duplicating this literal "cache.app.recorder_inner" 5 times.(ú´Õ§øÿÿÿÿ
+p	php:S1192"XDefine a constant instead of duplicating this literal "monolog.logger.request" 11 times.(öóÆÏøÿÿÿÿ
+|	php:S1192"dDefine a constant instead of duplicating this literal "argument_resolver.request_attribute" 5 times.(›ù‰øÿÿÿÿ
+d	php:S1192"QDefine a constant instead of duplicating this literal "form.type.entity" 5 times.(²­¸“
+d	php:S1192"QDefine a constant instead of duplicating this literal "kernel.exception" 3 times.(¥º¸÷
+p	php:S1192"XDefine a constant instead of duplicating this literal "twig.runtime.httpkernel" 5 times.(•êËÀûÿÿÿÿ
+z	php:S1192"gDefine a constant instead of duplicating this literal "debug.security.access.decision_manager" 9 times.(ıƒÀ‘
+s	php:S1192"[Define a constant instead of duplicating this literal "templating.filename_parser" 5 times.(ÚÖñÿÿÿÿÿ
+q	php:S1192"_Define a constant instead of duplicating this literal "cache.validator.recorder_inner" 5 times.(Ï–ï+
+	php:S1192"wDefine a constant instead of duplicating this literal "doctrine.orm.default_listeners.attach_entity_listeners" 5 times.(¢Çğşÿÿÿÿ
+]	php:S1192"JDefine a constant instead of duplicating this literal "127.0.0.1" 5 times.(‚ĞßÀ
+[	php:S1192"HDefine a constant instead of duplicating this literal "session" 9 times.(İ¥Û€
+_	php:S1192"LDefine a constant instead of duplicating this literal "onTerminate" 3 times.(ÜÍè¯
+s	php:S1192"`Define a constant instead of duplicating this literal "cache.serializer.recorder_inner" 5 times.(¡«º
+¥	php:S1192"‘Define a constant instead of duplicating this literal "console.command.symfony_bundle_securitybundle_command_userpasswordencodercommand" 4 times.(¯”®
+c	php:S1192"KDefine a constant instead of duplicating this literal "/_fragment" 6 times.(¸¶”Ÿüÿÿÿÿ
+r	php:S1192"ZDefine a constant instead of duplicating this literal "validate_request_listener" 5 times.(ÕêÅ»ÿÿÿÿÿ
+i	php:S1192"VDefine a constant instead of duplicating this literal "cache.default_clearer" 6 times.(Ôí°Ï
+m	php:S1192"UDefine a constant instead of duplicating this literal "config_cache_factory" 5 times.(Âä€ûÿÿÿÿ
+w	php:S1192"_Define a constant instead of duplicating this literal "security.logout_url_generator" 11 times.(Àüš‹øÿÿÿÿ
+}	php:S1192"jDefine a constant instead of duplicating this literal "sensio_framework_extra.converter.datetime" 5 times.(ÅúßÑ
+t	php:S1192"\Define a constant instead of duplicating this literal "form.type_guesser.validator" 7 times.(¦ª½âúÿÿÿÿ
+v	php:S1192"cDefine a constant instead of duplicating this literal "swiftmailer.email_sender.listener" 14 times.(Ú¤Àê
+x	php:S1192"eDefine a constant instead of duplicating this literal "sensio_framework_extra.view.listener" 8 times.(íÍÊË
+u	php:S1192"bDefine a constant instead of duplicating this literal "security.access.simple_role_voter" 5 times.(ÿ‘ü
+g	php:S1192"TDefine a constant instead of duplicating this literal "templating.locator" 11 times.(şÊû¿
+\	php:S1192"JDefine a constant instead of duplicating this literal "doctrine" 25 times.(´¿á
+c	php:S1192"PDefine a constant instead of duplicating this literal "router_listener" 8 times.(³Ÿ¯ô
+‚	php:S1192"jDefine a constant instead of duplicating this literal "swiftmailer.mailer.default.transport.real" 3 times.(ÎÕÂ‰ıÿÿÿÿ
+o	php:S1192"]Define a constant instead of duplicating this literal "security.user_value_resolver" 5 times.(÷ô*
+w	php:S1192"dDefine a constant instead of duplicating this literal "security.access.authenticated_voter" 5 times.(Ò£Š³
+i	php:S1192"VDefine a constant instead of duplicating this literal "fragment.renderer.esi" 5 times.(Ò—­¨
+u	php:S1192"]Define a constant instead of duplicating this literal "session.storage.metadata_bag" 9 times.(Ğ²Öúÿÿÿÿ
+q	php:S1192"YDefine a constant instead of duplicating this literal "form.type_extension.csrf" 7 times.(‘Í„‡şÿÿÿÿ
+	php:S1192"ŠDefine a constant instead of duplicating this literal "console.command.symfony_bundle_webserverbundle_command_serverstartcommand" 4 times.(çÊ‡¿
+e	php:S1192"MDefine a constant instead of duplicating this literal "file_locator" 8 times.(Ò±Á×úÿÿÿÿ
+^	php:S1192"FDefine a constant instead of duplicating this literal "UTF-8" 8 times.(˜®å–øÿÿÿÿ
+s	php:S1192"`Define a constant instead of duplicating this literal "security.authorization_checker" 11 times.(«ùÔ
+	php:S1192"gDefine a constant instead of duplicating this literal "form.type_extension.repeated.validator" 7 times.(³•£®ÿÿÿÿÿ
+m	php:S1192"UDefine a constant instead of duplicating this literal "debug.log_processor" 25 times.(£€Ã­ıÿÿÿÿ
+q	php:S1192"YDefine a constant instead of duplicating this literal "web_profiler.csp.handler" 7 times.(óÏ–¶ÿÿÿÿÿ
+{	php:S1192"cDefine a constant instead of duplicating this literal "form.type_extension.form.validator" 7 times.(¦ßÕÌúÿÿÿÿ
+n	php:S1192"VDefine a constant instead of duplicating this literal "monolog.handler.main" 33 times.(ó¥İ›ûÿÿÿÿ
+n	php:S1192"[Define a constant instead of duplicating this literal "form.type_guesser.doctrine" 5 times.(œ•ß«
+o	php:S1192"WDefine a constant instead of duplicating this literal "console.error_listener" 7 times.(¡¨Èêüÿÿÿÿ
+}	php:S1192"eDefine a constant instead of duplicating this literal "swiftmailer.mailer.default.transport" 6 times.(´Â©ûÿÿÿÿ
+k	php:S1192"XDefine a constant instead of duplicating this literal "monolog.logger.profiler" 5 times.(êÛ®
+›	php:S1192"‚Define a constant instead of duplicating this literal "Symfony\\Bundle\\FrameworkBundle\\Routing\\RedirectableUrlMatcher" 4 times.(à­ ıÿÿÿÿ
+y	php:S1192"aDefine a constant instead of duplicating this literal "cache.annotations.recorder_inner" 5 times.(•Ö³øÿÿÿÿ
+t	php:S1192"aDefine a constant instead of duplicating this literal "security.access.expression_voter" 5 times.(Ü¡æ«
+}	php:S1192"eDefine a constant instead of duplicating this literal "sensio_distribution.security_checker" 5 times.(ÎÔòêøÿÿÿÿ
+p	php:S1192"XDefine a constant instead of duplicating this literal "twig.exception_listener" 5 times.(¢ğ£âùÿÿÿÿ
+l	php:S1192"TDefine a constant instead of duplicating this literal "debug.dump_listener" 5 times.(™‹ÄĞüÿÿÿÿ
+i	php:S1192"VDefine a constant instead of duplicating this literal "session.save_listener" 5 times.(¤ê
+_	php:S1192"LDefine a constant instead of duplicating this literal "uri_signer" 14 times.(Å’Æ
+s	php:S1192"`Define a constant instead of duplicating this literal "security.authentication.manager" 7 times.(•Ë­á
+f	php:S1192"SDefine a constant instead of duplicating this literal "monolog.logger.php" 5 times.(Úø¢
+]	php:S1192"JDefine a constant instead of duplicating this literal "validator" 8 times.(Á¹şè
+~	php:S1192"fDefine a constant instead of duplicating this literal "sensio_framework_extra.cache.listener" 8 times.(ÃõÁ¶ÿÿÿÿÿ
+_	php:S1192"LDefine a constant instead of duplicating this literal "twig.loader" 5 times.(·éùò
+j	php:S1192"RDefine a constant instead of duplicating this literal "var_dumper.cloner" 8 times.(…çäşÿÿÿÿ
+n	php:S1192"[Define a constant instead of duplicating this literal "fragment.renderer.hinclude" 5 times.(Û™„‚
+—	php:S1192"ƒDefine a constant instead of duplicating this literal "1_81d5aba8e3a3496bcc81e639ebe98e0631edea85628406c5d64731c423d6dbea" 5 times.(Ê³ÏÑ
+n	php:S1192"VDefine a constant instead of duplicating this literal "monolog.logger.cache" 18 times.(†ŸÇ“ùÿÿÿÿ
+p	php:S1192"XDefine a constant instead of duplicating this literal "data_collector.request" 13 times.(ÂĞøñıÿÿÿÿ
+v	php:S1192"dDefine a constant instead of duplicating this literal "doctrine.orm.default_entity_manager" 8 times.(²ä†B
+m	php:S1192"ZDefine a constant instead of duplicating this literal "argument_resolver.service" 5 times.(öİÀ¨
+l	php:S1192"YDefine a constant instead of duplicating this literal "monolog.handler.console" 33 times.(ÈŠŸú
+o	php:S1192"\Define a constant instead of duplicating this literal "cache.system.recorder_inner" 5 times.(îÆØ·
+^	php:S1192"KDefine a constant instead of duplicating this literal "templating" 3 times.(‡½­ç
+f	php:S1192"SDefine a constant instead of duplicating this literal "twig.form.renderer" 6 times.(¨Úÿ
+c	php:S1192"KDefine a constant instead of duplicating this literal "cache.app" 14 times.(áğÕúÿÿÿÿ
+^	php:S1192"FDefine a constant instead of duplicating this literal "event" 3 times.(‘»ğúÿÿÿÿ
+v	php:S1192"^Define a constant instead of duplicating this literal "debug.debug_handlers_listener" 5 times.(¡È –üÿÿÿÿ
+e	php:S1192"RDefine a constant instead of duplicating this literal "fragment.listener" 5 times.(À×ü‡
+i	php:S1192"QDefine a constant instead of duplicating this literal "fragment.handler" 5 times.(¦îÌàşÿÿÿÿ
+y	php:S1192"aDefine a constant instead of duplicating this literal "swiftmailer.mailer.default.spool" 6 times.(‰Ò³Øûÿÿÿÿ
+ƒ	php:S1192"kDefine a constant instead of duplicating this literal "sensio_framework_extra.controller.listener" 5 times.(å…¶Òüÿÿÿÿ
+n	php:S1192"VDefine a constant instead of duplicating this literal "var_dumper.cli_dumper" 5 times.(ÃÆ²üÿÿÿÿ
+n	php:S1192"[Define a constant instead of duplicating this literal "swiftmailer.mailer.default" 8 times.(™ª‹Ÿ
+}	php:S1192"jDefine a constant instead of duplicating this literal "sensio_framework_extra.converter.listener" 5 times.(”×ŞÛ
+`	php:S1192"HDefine a constant instead of duplicating this literal "router" 32 times.(ªß¯Èşÿÿÿÿ
+i	php:S1192"VDefine a constant instead of duplicating this literal "monolog.logger.router" 5 times.(¸àµè
+_	php:S1192"GDefine a constant instead of duplicating this literal "/pools" 5 times.(êëô‘ùÿÿÿÿ
+c	php:S1192"KDefine a constant instead of duplicating this literal "localhost" 10 times.(È¤ÿúÿÿÿÿ
+_	php:S1192"GDefine a constant instead of duplicating this literal "bottom" 3 times.(¬Š±®úÿÿÿÿ
+b	php:S1192"JDefine a constant instead of duplicating this literal "profiler" 15 times.(Ğˆ‡ıûÿÿÿÿ
+o	php:S1192"WDefine a constant instead of duplicating this literal "session.storage.native" 6 times.(Ô§¥‡ùÿÿÿÿ
+k	php:S1192"XDefine a constant instead of duplicating this literal "monolog.logger.doctrine" 5 times.(„Îı“
+g	php:S1192"UDefine a constant instead of duplicating this literal "data_collector.form" 13 times.(Û‘„
+i	php:S1192"QDefine a constant instead of duplicating this literal "form.type.choice" 7 times.(£¯Ô‰ÿÿÿÿÿ
+	php:S1192"iDefine a constant instead of duplicating this literal "sensio_framework_extra.security.listener" 5 times.(â×µçúÿÿÿÿ
+p	php:S1192"XDefine a constant instead of duplicating this literal "security.token_storage" 30 times.(©ØÙéüÿÿÿÿ
+\	php:S1192"IDefine a constant instead of duplicating this literal "security" 3 times.(ƒ…Š„
+j	php:S1192"RDefine a constant instead of duplicating this literal "console.terminate" 3 times.(˜¿£Êúÿÿÿÿ
+	php:S1192"‰Define a constant instead of duplicating this literal "console.command.symfony_bundle_webserverbundle_command_serverstopcommand" 4 times.(Àşğî
+	php:S1192"uDefine a constant instead of duplicating this literal "Symfony\\Component\\Routing\\Generator\\UrlGenerator" 4 times.(à­ ıÿÿÿÿ
+^	php:S1192"KDefine a constant instead of duplicating this literal "namespace" 13 times.(ğ‚»˜
+	php:S1151"nReduce this "switch/case" number of lines from 67 to at most 10, for example by extracting code into function.(ª¾˜¬
+sphp:S122"\2 statements were found on this line. Reformat the code to have only one statement per line.(†¼ïãúÿÿÿÿ
+sphp:S122"\2 statements were found on this line. Reformat the code to have only one statement per line.(™Ò§’şÿÿÿÿ
+sphp:S122"\2 statements were found on this line. Reformat the code to have only one statement per line.(…Şóùÿÿÿÿ
+sphp:S122"\2 statements were found on this line. Reformat the code to have only one statement per line.( ¶’ûÿÿÿÿ
+nphp:S122"\2 statements were found on this line. Reformat the code to have only one statement per line.(Ü ùî
+A	php:S1125")Remove the literal "false" boolean value.(Æğ„ øÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(Æğ„ øÿÿÿÿ
+;	php:S1125")Remove the literal "false" boolean value.(ÜÕâg
+A	php:S1125")Remove the literal "false" boolean value.(áÛ·üÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(ï²ö´ÿÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(î–Ê‘ÿÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(î–Ê‘ÿÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(î–Ê‘ÿÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(î–Ê‘ÿÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(ô½®şûÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(ô½®şûÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(ô½®şûÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(ô½®şûÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(ÉØ…
+<	php:S1125")Remove the literal "false" boolean value.(Ş¦ä
+A	php:S1125")Remove the literal "false" boolean value.(êëÕëûÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(ë£ïö
+A	php:S1125")Remove the literal "false" boolean value.(áÛæóøÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(áÛæóøÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(áÛæóøÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(áÛæóøÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(áÛæóøÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(áÛæóøÿÿÿÿ
+;	php:S1125")Remove the literal "false" boolean value.( •÷=
+A	php:S1125")Remove the literal "false" boolean value.(´é²Íùÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(ÿöèáşÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(ú¥“àúÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(ˆ—ãõÿÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(˜®å–øÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(˜®å–øÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(˜®å–øÿÿÿÿ
+;	php:S1125")Remove the literal "false" boolean value.(ÔøÈV
+A	php:S1125")Remove the literal "false" boolean value.(òöàùÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(­–…Õşÿÿÿÿ
+;	php:S1125")Remove the literal "false" boolean value.(¬¿ˆ)
+<	php:S1125")Remove the literal "false" boolean value.(ïÒˆ³
+<	php:S1125")Remove the literal "false" boolean value.(û¬Û²
+A	php:S1125")Remove the literal "false" boolean value.(©©–ğüÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(øÿø
+A	php:S1125")Remove the literal "false" boolean value.(òº‘üÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(àéò¨
+<	php:S1125")Remove the literal "false" boolean value.(àéò¨
+<	php:S1125")Remove the literal "false" boolean value.(àéò¨
+<	php:S1125")Remove the literal "false" boolean value.(àéò¨
+A	php:S1125")Remove the literal "false" boolean value.(Ğ•ùûÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(Ğ•ùûÿÿÿÿ
+;	php:S1125")Remove the literal "false" boolean value.(ÅÈŒ'
+;	php:S1125")Remove the literal "false" boolean value.(ÅÈŒ'
+<	php:S1125")Remove the literal "false" boolean value.(Ñõ„€
+<	php:S1125")Remove the literal "false" boolean value.(Ñõ„€
+A	php:S1125")Remove the literal "false" boolean value.(³Ö°Şşÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(ÒõÇï
+<	php:S1125")Remove the literal "false" boolean value.(»ŸÈ‘
+A	php:S1125")Remove the literal "false" boolean value.(½ÆÒÄúÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(½ÆÒÄúÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(…ôşûÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(ãÃÈç
+A	php:S1125")Remove the literal "false" boolean value.(½¦–Ğüÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(½¦–Ğüÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(Ô°°Îúÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(ßÙÏÂ
+A	php:S1125")Remove the literal "false" boolean value.(õóÔäüÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(æ¢êÍøÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(æ¢êÍøÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(æ¢êÍøÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(÷áÂıÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(÷áÂıÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(›˜Ğ¾
+<	php:S1125")Remove the literal "false" boolean value.(¥ÇÛé
+<	php:S1125")Remove the literal "false" boolean value.(¥ÇÛé
+<	php:S1125")Remove the literal "false" boolean value.(®ˆ†¤
+<	php:S1125")Remove the literal "false" boolean value.(®ˆ†¤
+A	php:S1125")Remove the literal "false" boolean value.(“ßãÜúÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(İ¥İÿÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(š‰ì—ÿÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(š‰ì—ÿÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(Â“èÇ
+<	php:S1125")Remove the literal "false" boolean value.(Â“èÇ
+<	php:S1125")Remove the literal "false" boolean value.(Â“èÇ
+<	php:S1125")Remove the literal "false" boolean value.(Â“èÇ
+A	php:S1125")Remove the literal "false" boolean value.(ã”øüÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(Şâ«¯
+A	php:S1125")Remove the literal "false" boolean value.(ùì¦Êıÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(ùì¦Êıÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(ÂñÔüÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(ÂñÔüÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(úÕÏ
+A	php:S1125")Remove the literal "false" boolean value.(Ÿ½Šøÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(¬–ùÕüÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(ÛŒ¾Å
+<	php:S1125")Remove the literal "false" boolean value.(ÛŒ¾Å
+<	php:S1125")Remove the literal "false" boolean value.(ÛŒ¾Å
+<	php:S1125")Remove the literal "false" boolean value.(ÛŒ¾Å
+<	php:S1125")Remove the literal "false" boolean value.(ÛŒ¾Å
+<	php:S1125")Remove the literal "false" boolean value.(ÛŒ¾Å
+<	php:S1125")Remove the literal "false" boolean value.(ÛŒ¾Å
+<	php:S1125")Remove the literal "false" boolean value.(ÛŒ¾Å
+A	php:S1125")Remove the literal "false" boolean value.(£«Ï€ùÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.( ½§Şÿÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.( ½§Şÿÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(Š¥¥†
+<	php:S1125")Remove the literal "false" boolean value.(Œò£Á
+<	php:S1125")Remove the literal "false" boolean value.(‚ĞßÀ
+<	php:S1125")Remove the literal "false" boolean value.(™Ûş
+<	php:S1125")Remove the literal "false" boolean value.(Ü¼ºÃ
+A	php:S1125")Remove the literal "false" boolean value.(ı“óúÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(¸šÛ‰ùÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(Å²¨åûÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(ü¬€ûÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(ˆ˜î¢
+A	php:S1125")Remove the literal "false" boolean value.(¹úÒ£şÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(Õ›ìğ
+<	php:S1125")Remove the literal "false" boolean value.(¨½Èç
+A	php:S1125")Remove the literal "false" boolean value.(îÈä›ıÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(îÈä›ıÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(éç«Ó
+A	php:S1125")Remove the literal "false" boolean value.(Ä¢éúÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(û´í­øÿÿÿÿ
+;	php:S1125")Remove the literal "false" boolean value.(ª¿ùw
+<	php:S1125")Remove the literal "false" boolean value.(ƒâ®¨
+A	php:S1125")Remove the literal "false" boolean value.(À£­­ûÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(‰‘èıÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(«Èäşÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(„†•å
+<	php:S1125")Remove the literal "false" boolean value.(Æ¼‘È
+A	php:S1125")Remove the literal "false" boolean value.(óíèıùÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(®ğ’Ô
+<	php:S1125")Remove the literal "false" boolean value.(´±¢«
+<	php:S1125")Remove the literal "false" boolean value.(÷âá
+<	php:S1125")Remove the literal "false" boolean value.(Åü®£
+A	php:S1125")Remove the literal "false" boolean value.(Àã¯Ÿúÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(Û¡Î‹ûÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(Û¡Î‹ûÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(¸¶”Ÿüÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(óô„¶ûÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(óô„¶ûÿÿÿÿ
+;	php:S1125")Remove the literal "false" boolean value.(¼Ã_
+;	php:S1125")Remove the literal "false" boolean value.(¼Ã_
+<	php:S1125")Remove the literal "false" boolean value.(¿ÕÓ
+<	php:S1125")Remove the literal "false" boolean value.(¿ÕÓ
+;	php:S1125")Remove the literal "false" boolean value.(öëˆM
+;	php:S1125")Remove the literal "false" boolean value.(öëˆM
+<	php:S1125")Remove the literal "false" boolean value.(¼í£Ü
+<	php:S1125")Remove the literal "false" boolean value.(¼í£Ü
+<	php:S1125")Remove the literal "false" boolean value.(¼í£Ü
+<	php:S1125")Remove the literal "false" boolean value.(¼í£Ü
+A	php:S1125")Remove the literal "false" boolean value.(Ã†·ıÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(Ã†·ıÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(¿—¸ñ
+;	php:S1125")Remove the literal "false" boolean value.(·À¼R
+<	php:S1125")Remove the literal "false" boolean value.(¨éÖ©
+<	php:S1125")Remove the literal "false" boolean value.(şŠ¡¤
+<	php:S1125")Remove the literal "false" boolean value.(¿—¸ñ
+;	php:S1125")Remove the literal "false" boolean value.(·À¼R
+<	php:S1125")Remove the literal "false" boolean value.(¨éÖ©
+<	php:S1125")Remove the literal "false" boolean value.(şŠ¡¤
+<	php:S1125")Remove the literal "false" boolean value.(¿—¸ñ
+;	php:S1125")Remove the literal "false" boolean value.(·À¼R
+<	php:S1125")Remove the literal "false" boolean value.(şŠ¡¤
+<	php:S1125")Remove the literal "false" boolean value.(¿—¸ñ
+;	php:S1125")Remove the literal "false" boolean value.(·À¼R
+<	php:S1125")Remove the literal "false" boolean value.(şŠ¡¤
+<	php:S1125")Remove the literal "false" boolean value.(¿—¸ñ
+;	php:S1125")Remove the literal "false" boolean value.(·À¼R
+<	php:S1125")Remove the literal "false" boolean value.(¿—¸ñ
+;	php:S1125")Remove the literal "false" boolean value.(·À¼R
+<	php:S1125")Remove the literal "false" boolean value.(¨éÖ©
+<	php:S1125")Remove the literal "false" boolean value.(şŠ¡¤
+<	php:S1125")Remove the literal "false" boolean value.(¿—¸ñ
+;	php:S1125")Remove the literal "false" boolean value.(·À¼R
+<	php:S1125")Remove the literal "false" boolean value.(¨éÖ©
+<	php:S1125")Remove the literal "false" boolean value.(şŠ¡¤
+<	php:S1125")Remove the literal "false" boolean value.(¿—¸ñ
+;	php:S1125")Remove the literal "false" boolean value.(·À¼R
+<	php:S1125")Remove the literal "false" boolean value.(¨éÖ©
+<	php:S1125")Remove the literal "false" boolean value.(şŠ¡¤
+<	php:S1125")Remove the literal "false" boolean value.(¿—¸ñ
+;	php:S1125")Remove the literal "false" boolean value.(·À¼R
+<	php:S1125")Remove the literal "false" boolean value.(¨éÖ©
+<	php:S1125")Remove the literal "false" boolean value.(şŠ¡¤
+<	php:S1125")Remove the literal "false" boolean value.(¿—¸ñ
+;	php:S1125")Remove the literal "false" boolean value.(·À¼R
+<	php:S1125")Remove the literal "false" boolean value.(¨éÖ©
+<	php:S1125")Remove the literal "false" boolean value.(şŠ¡¤
+<	php:S1125")Remove the literal "false" boolean value.(¿—¸ñ
+;	php:S1125")Remove the literal "false" boolean value.(·À¼R
+<	php:S1125")Remove the literal "false" boolean value.(¨éÖ©
+<	php:S1125")Remove the literal "false" boolean value.(şŠ¡¤
+A	php:S1125")Remove the literal "false" boolean value.(—¹ŸÃùÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(¥Ÿİ
+A	php:S1125")Remove the literal "false" boolean value.(¬±Ù°şÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(È°ªÃ
+<	php:S1125")Remove the literal "false" boolean value.(ÛòôÖ
+A	php:S1125")Remove the literal "false" boolean value.(ïë‚¥ıÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(¯ñƒ—
+A	php:S1125")Remove the literal "false" boolean value.(˜ø›Ğÿÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(š¨ñş
+A	php:S1125")Remove the literal "false" boolean value.(‰¹·Çúÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(Àû¿Œûÿÿÿÿ
+;	php:S1125")Remove the literal "false" boolean value.(³øìg
+<	php:S1125")Remove the literal "false" boolean value.(òªãˆ
+<	php:S1125")Remove the literal "false" boolean value.(É›ÿ™
+;	php:S1125")Remove the literal "false" boolean value.(Ã’Ä
+;	php:S1125")Remove the literal "false" boolean value.(ÊƒÕ&
+;	php:S1125")Remove the literal "false" boolean value.(ÊƒÕ&
+;	php:S1125")Remove the literal "false" boolean value.(ÊƒÕ&
+;	php:S1125")Remove the literal "false" boolean value.(ÊƒÕ&
+;	php:S1125")Remove the literal "false" boolean value.(ÊƒÕ&
+<	php:S1125")Remove the literal "false" boolean value.(¦ĞÖ
+A	php:S1125")Remove the literal "false" boolean value.(Ò×Â½üÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(–„‘üÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(–„‘üÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(à­ ıÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(à­ ıÿÿÿÿ
+;	php:S1125")Remove the literal "false" boolean value.(„Øb
+A	php:S1125")Remove the literal "false" boolean value.(ï³ûâúÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(ï³ûâúÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(ï³ûâúÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(ï³ûâúÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(‹òƒîûÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(âå“úüÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(Ååü…ÿÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(óÖâ°øÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(óÖâ°øÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(Üª¢œ
+A	php:S1125")Remove the literal "false" boolean value.(Ñ‹Òûÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(Ñ‹Òûÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(Ñ‹Òûÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(¿•¬êÿÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(ß‹÷Êÿÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(ß‹÷Êÿÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(ß‹÷Êÿÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(Ù·ÜË
+A	php:S1125")Remove the literal "false" boolean value.(ö– úÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(ú§÷…
+<	php:S1125")Remove the literal "false" boolean value.(ÁËÕ
+A	php:S1125")Remove the literal "false" boolean value.(Í…¹–üÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(Çì½Àùÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(Çì½Àùÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(“¥÷Ïûÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(çÀÅ
+<	php:S1125")Remove the literal "false" boolean value.(çÀÅ
+<	php:S1125")Remove the literal "false" boolean value.(‰˜¨í
+A	php:S1125")Remove the literal "false" boolean value.(ÖŠà„üÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(‚…©
+A	php:S1125")Remove the literal "false" boolean value.(«¿Ìèúÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(’Âöïÿÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(¡Æìãşÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(¯ôû
+<	php:S1125")Remove the literal "false" boolean value.(¯ôû
+<	php:S1125")Remove the literal "false" boolean value.(¯ôû
+<	php:S1125")Remove the literal "false" boolean value.(¯ôû
+<	php:S1125")Remove the literal "false" boolean value.(Àƒç°
+A	php:S1125")Remove the literal "false" boolean value.(”şıÕüÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(¿ÜÀ×
+A	php:S1125")Remove the literal "false" boolean value.(£šÜûÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(£šÜûÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(´é•åüÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(´é•åüÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(™€»à
+A	php:S1125")Remove the literal "false" boolean value.(ƒ”®Ûûÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(©Ï˜
+A	php:S1125")Remove the literal "false" boolean value.(®½Ã£ùÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(®½Ã£ùÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(ÒòÊº
+<	php:S1125")Remove the literal "false" boolean value.(—–“Ö
+A	php:S1125")Remove the literal "false" boolean value.(Öèëùÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(…ƒ´áüÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(…ƒ´áüÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(…ƒ´áüÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(ûİ€
+<	php:S1125")Remove the literal "false" boolean value.(·¬™¢
+<	php:S1125")Remove the literal "false" boolean value.(¯‡Óÿ
+<	php:S1125")Remove the literal "false" boolean value.(¨ğÃ“
+<	php:S1125")Remove the literal "false" boolean value.(åÙ³ÿ
+<	php:S1125")Remove the literal "false" boolean value.(şÃ¢İ
+<	php:S1125")Remove the literal "false" boolean value.(ê›Î
+A	php:S1125")Remove the literal "false" boolean value.(œ¤•ˆıÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(ïèïˆ
+A	php:S1125")Remove the literal "false" boolean value.(Èµ³úÿÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(€Ü²¼ûÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(ı›˜Ôûÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(½ ±¨
+A	php:S1125")Remove the literal "false" boolean value.(Â®¥ûÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(»¬ĞÕşÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(¨ÑÊ 
+<	php:S1125")Remove the literal "false" boolean value.(áŸÑ
+<	php:S1125")Remove the literal "false" boolean value.(ï‡ñ‘
+A	php:S1125")Remove the literal "false" boolean value.(²Œ¼Àşÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(‘úÍı
+A	php:S1125")Remove the literal "false" boolean value.(æ¹·Öşÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(ø¬ğÜ
+<	php:S1125")Remove the literal "false" boolean value.(à”À–
+<	php:S1125")Remove the literal "false" boolean value.(à”À–
+<	php:S1125")Remove the literal "false" boolean value.(Äç¸†
+<	php:S1125")Remove the literal "false" boolean value.(Äç¸†
+<	php:S1125")Remove the literal "false" boolean value.(ºÓµÇ
+A	php:S1125")Remove the literal "false" boolean value.(—»ĞØşÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(Áœ
+<	php:S1125")Remove the literal "false" boolean value.(§¸®–
+<	php:S1125")Remove the literal "false" boolean value.(ØÌ“õ
+<	php:S1125")Remove the literal "false" boolean value.(ûëç
+A	php:S1125")Remove the literal "false" boolean value.(Ç»Ş£ıÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(§¸®–
+<	php:S1125")Remove the literal "false" boolean value.(ØÌ“õ
+A	php:S1125")Remove the literal "false" boolean value.(Ç»Ş£ıÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(ƒ®Öğüÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(èœ˜é
+A	php:S1125")Remove the literal "false" boolean value.(Ïœ¶şÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(ı¶¦şÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(ı¶¦şÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(¬Š±®úÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(¬Š±®úÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(¬Š±®úÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(¬Š±®úÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(à…²ë
+<	php:S1125")Remove the literal "false" boolean value.(à…²ë
+<	php:S1125")Remove the literal "false" boolean value.(à…²ë
+A	php:S1125")Remove the literal "false" boolean value.(ÛÔïÀûÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(ÛÔïÀûÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(ÛÔïÀûÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(¡Ş®¨
+A	php:S1125")Remove the literal "false" boolean value.(êëô‘ùÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(¥ü Ú
+A	php:S1125")Remove the literal "false" boolean value.(ú™€”úÿÿÿÿ
+;	php:S1125")Remove the literal "false" boolean value.(á­»
+;	php:S1125")Remove the literal "false" boolean value.(¸³¿q
+<	php:S1125")Remove the literal "false" boolean value.(ı»õà
+A	php:S1125")Remove the literal "false" boolean value.(… ¶Üøÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(˜¼½õ
+<	php:S1125")Remove the literal "false" boolean value.(Ø¶“
+<	php:S1125")Remove the literal "false" boolean value.(í„–„
+A	php:S1125")Remove the literal "false" boolean value.(­­—şÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(Áøİÿÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(ã´Ø
+<	php:S1125")Remove the literal "false" boolean value.(üÛ°¹
+<	php:S1125")Remove the literal "false" boolean value.(—“äã
+<	php:S1125")Remove the literal "false" boolean value.(·àÍõ
+<	php:S1125")Remove the literal "false" boolean value.(·àÍõ
+<	php:S1125")Remove the literal "false" boolean value.(·àÍõ
+A	php:S1125")Remove the literal "false" boolean value.(Ú—¿èşÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(éµí‰ûÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(Ï˜»„şÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(½íºâ
+A	php:S1125")Remove the literal "false" boolean value.(·´şÁıÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(Ç¨ù¯
+A	php:S1125")Remove the literal "false" boolean value.(Î£®Úÿÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(ÏÙúª
+<	php:S1125")Remove the literal "false" boolean value.(ÏÙúª
+A	php:S1125")Remove the literal "false" boolean value.(×ù£Éÿÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(øïıüıÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(Ş…£ûÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(‹×’Æ
+A	php:S1125")Remove the literal "false" boolean value.(¿«ƒüÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(õúè´ÿÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(õúè´ÿÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(õúè´ÿÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.( º«üÿÿÿÿ
+A	php:S1125")Remove the literal "false" boolean value.(‡õ€Ãøÿÿÿÿ
+<	php:S1125")Remove the literal "false" boolean value.(¨û¯Ë
+<	php:S1125")Remove the literal "false" boolean value.(Ùèè¿
+<	php:S1125")Remove the literal "false" boolean value.(Á‡æ´
+A	php:S1125")Remove the literal "false" boolean value.(’¥³àşÿÿÿÿ
+?	php:S1481"'Remove this unused "$_" local variable.(éµí‰ûÿÿÿÿ
+:	php:S1481"'Remove this unused "$_" local variable.(Ç¨ù¯
+:	php:S1481"'Remove this unused "$_" local variable.(¥ü Ú
+:	php:S1481"'Remove this unused "$_" local variable.(Àƒç°
+?	php:S1481"'Remove this unused "$_" local variable.(êëô‘ùÿÿÿÿ
+?	php:S1481"'Remove this unused "$_" local variable.(½ÆÒÄúÿÿÿÿ
+:	php:S1481"'Remove this unused "$_" local variable.(Üª¢œ
+?	php:S1481"'Remove this unused "$_" local variable.(—»ĞØşÿÿÿÿ
+?	php:S1481"'Remove this unused "$_" local variable.(’¥³àşÿÿÿÿ
+:	php:S1481"'Remove this unused "$_" local variable.(Â“èÇ
+?	php:S1481"'Remove this unused "$_" local variable.(õóÔäüÿÿÿÿ
+?	php:S1481"'Remove this unused "$_" local variable.(İ¥İÿÿÿÿÿ
+:	php:S1481"'Remove this unused "$_" local variable.(¿ÜÀ×
+:	php:S1481"'Remove this unused "$_" local variable.(Åü®£
+:	php:S1481"'Remove this unused "$_" local variable.(ÉØ…
+?	php:S1481"'Remove this unused "$_" local variable.(Ô°°Îúÿÿÿÿ
+?	php:S1481"'Remove this unused "$_" local variable.(·´şÁıÿÿÿÿ
+?	php:S1481"'Remove this unused "$_" local variable.(¿•¬êÿÿÿÿÿ
+9	php:S1481"'Remove this unused "$_" local variable.(ÜÕâg
+:	php:S1481"'Remove this unused "$_" local variable.(ºÓµÇ
+?	php:S1481"'Remove this unused "$_" local variable.(”şıÕüÿÿÿÿ
+9	php:S1481"'Remove this unused "$_" local variable.(á­»
+:	php:S1481"'Remove this unused "$_" local variable.(Â“èÇ
+?	php:S1481"'Remove this unused "$_" local variable.(øïıüıÿÿÿÿ
+9	php:S1481"'Remove this unused "$_" local variable.( •÷=
+:	php:S1481"'Remove this unused "$_" local variable.(©Ï˜
+?	php:S1481"'Remove this unused "$_" local variable.(òº‘üÿÿÿÿ
+?	php:S1481"'Remove this unused "$_" local variable.(½¦–Ğüÿÿÿÿ
+?	php:S1481"'Remove this unused "$_" local variable.(½¦–Ğüÿÿÿÿ
+?	php:S1481"'Remove this unused "$_" local variable.(ï²ö´ÿÿÿÿÿ
+?	php:S1481"'Remove this unused "$_" local variable.(½ÆÒÄúÿÿÿÿ
+:	php:S1481"'Remove this unused "$_" local variable.(‰˜¨í
+?	php:S1481"'Remove this unused "$_" local variable.(×ù£Éÿÿÿÿÿ
+:	php:S1481"'Remove this unused "$_" local variable.(®ˆ†¤
+:	php:S1481"'Remove this unused "$_" local variable.(ã´Ø
+:	php:S1481"'Remove this unused "$_" local variable.(™€»à
+:	php:S1481"'Remove this unused "$_" local variable.(§¸®–
+:	php:S1481"'Remove this unused "$_" local variable.(®ˆ†¤
+:	php:S1481"'Remove this unused "$_" local variable.(Õ›ìğ
+:	php:S1481"'Remove this unused "$_" local variable.(Â“èÇ
+?	php:S1481"'Remove this unused "$_" local variable.(Î£®Úÿÿÿÿÿ
+:	php:S1481"'Remove this unused "$_" local variable.(‹×’Æ
+?	php:S1481"'Remove this unused "$_" local variable.(æ¹·Öşÿÿÿÿ
+:	php:S1481"'Remove this unused "$_" local variable.(¥ÇÛé
+:	php:S1481"'Remove this unused "$_" local variable.(½íºâ
+:	php:S1481"'Remove this unused "$_" local variable.(§¸®–
+?	php:S1481"'Remove this unused "$_" local variable.(²Œ¼Àşÿÿÿÿ
+:	php:S1481"'Remove this unused "$_" local variable.(¡Ş®¨
+?	php:S1481"'Remove this unused "$_" local variable.(Ç»Ş£ıÿÿÿÿ
+?	php:S1481"'Remove this unused "$_" local variable.(“ßãÜúÿÿÿÿ
+?	php:S1481"'Remove this unused "$_" local variable.(‡õ€Ãøÿÿÿÿ
+?	php:S1481"'Remove this unused "$_" local variable.(£«Ï€ùÿÿÿÿ
+:	php:S1481"'Remove this unused "$_" local variable.(¨ğÃ“
+?	php:S1481"'Remove this unused "$_" local variable.(Ÿ½Šøÿÿÿÿ
+?	php:S1481"'Remove this unused "$_" local variable.(æ¢êÍøÿÿÿÿ
+?	php:S1481"'Remove this unused "$_" local variable.(÷áÂıÿÿÿÿ
+:	php:S1481"'Remove this unused "$_" local variable.(úÕÏ
+9	php:S1481"'Remove this unused "$_" local variable.(¸³¿q
+?	php:S1481"'Remove this unused "$_" local variable.(Ä¢éúÿÿÿÿ
+:	php:S1481"'Remove this unused "$_" local variable.(—“äã
+?	php:S1481"'Remove this unused "$_" local variable.(Ç»Ş£ıÿÿÿÿ
+?	php:S1481"'Remove this unused "$_" local variable.(Àã¯Ÿúÿÿÿÿ
+:	php:S1481"'Remove this unused "$_" local variable.(ØÌ“õ
+?	php:S1481"'Remove this unused "$_" local variable.(…ôşûÿÿÿÿ
+:	php:S1481"'Remove this unused "$_" local variable.(¥ÇÛé
+?	php:S1481"'Remove this unused "$_" local variable.(û´í­øÿÿÿÿ
+:	php:S1481"'Remove this unused "$_" local variable.(Ø¶“
+:	php:S1481"'Remove this unused "$_" local variable.(éç«Ó
+:	php:S1481"'Remove this unused "$_" local variable.(Şâ«¯
+:	php:S1481"'Remove this unused "$_" local variable.(ûëç
+?	php:S1481"'Remove this unused "$_" local variable.(ÖŠà„üÿÿÿÿ
+:	php:S1481"'Remove this unused "$_" local variable.(ûİ€
+:	php:S1481"'Remove this unused "$_" local variable.(›˜Ğ¾
+?	php:S1481"'Remove this unused "$_" local variable.(ÂñÔüÿÿÿÿ
+:	php:S1481"'Remove this unused "$_" local variable.(ØÌ“õ
+:	php:S1481"'Remove this unused "$_" local variable.(»ŸÈ‘
+:	php:S1481"'Remove this unused "$_" local variable.(‚…©
+:	php:S1481"'Remove this unused "$_" local variable.(Áœ
+?	php:S1481"'Remove this unused "$_" local variable.(÷áÂıÿÿÿÿ
+:	php:S1481"'Remove this unused "$_" local variable.(˜¼½õ
+:	php:S1481"'Remove this unused "$_" local variable.(·¬™¢
+:	php:S1481"'Remove this unused "$_" local variable.(üÛ°¹
+:	php:S1481"'Remove this unused "$_" local variable.(Ş¦ä
+:	php:S1481"'Remove this unused "$_" local variable.(¯‡Óÿ
+:	php:S1481"'Remove this unused "$_" local variable.(Ùèè¿
+?	php:S1481"'Remove this unused "$_" local variable.(ùì¦Êıÿÿÿÿ
+?	php:S1481"'Remove this unused "$_" local variable.(“¥÷Ïûÿÿÿÿ
+:	php:S1481"'Remove this unused "$_" local variable.(´±¢«
+:	php:S1481"'Remove this unused "$_" local variable.(ÒõÇï
+?	php:S1481"'Remove this unused "$_" local variable.(š‰ì—ÿÿÿÿÿ
+?	php:S1481"'Remove this unused "$_" local variable.(ˆ—ãõÿÿÿÿÿ
+9	php:S1481"'Remove this unused "$_" local variable.(ÔøÈV
+?	php:S1481"'Remove this unused "$_" local variable.(¹úÒ£şÿÿÿÿ
+:	php:S1481"'Remove this unused "$_" local variable.(ı»õà
+?	php:S1481"'Remove this unused "$_" local variable.(æ¢êÍøÿÿÿÿ
+?	php:S1481"'Remove this unused "$_" local variable.(š‰ì—ÿÿÿÿÿ
+:	php:S1481"'Remove this unused "$_" local variable.(ßÙÏÂ
+:	php:S1481"'Remove this unused "$_" local variable.(„†•å
+?	php:S1481"'Remove this unused "$_" local variable.(ƒ”®Ûûÿÿÿÿ
+:	php:S1481"'Remove this unused "$_" local variable.(ˆ˜î¢
+:	php:S1481"'Remove this unused "$_" local variable.(Â“èÇ
+?	php:S1481"'Remove this unused "$_" local variable.(ã”øüÿÿÿÿ
+:	php:S1481"'Remove this unused "$_" local variable.(¨û¯Ë
+?	php:S1481"'Remove this unused "$_" local variable.(¬–ùÕüÿÿÿÿ
+?	php:S1481"'Remove this unused "$_" local variable.(ÂñÔüÿÿÿÿ
+:	php:S1481"'Remove this unused "$_" local variable.(‘úÍı
+?	php:S1481"'Remove this unused "$_" local variable.(—¹ŸÃùÿÿÿÿ
+:	php:S1481"'Remove this unused "$_" local variable.(ãÃÈç
+?	php:S1481"'Remove this unused "$_" local variable.(Ş…£ûÿÿÿÿ
+?	php:S1481"'Remove this unused "$_" local variable.(áÛ·üÿÿÿÿ
+?	php:S1481"'Remove this unused "$_" local variable.(æ¢êÍøÿÿÿÿ
+?	php:S1481"'Remove this unused "$_" local variable.(«¿Ìèúÿÿÿÿ
+:	php:S1481"'Remove this unused "$_" local variable.(ø¬ğÜ
+?	php:S1481"'Remove this unused "$_" local variable.(… ¶Üøÿÿÿÿ
+:	php:S1481"'Remove this unused "$_" local variable.(÷âá
+?	php:S1481"'Remove this unused "$_" local variable.(¸¶”Ÿüÿÿÿÿ
+:	php:S1481"'Remove this unused "$_" local variable.(¨½Èç
+?	php:S1481"'Remove this unused "$_" local variable.(ùì¦Êıÿÿÿÿ
+?	php:S1481"'Remove this unused "$_" local variable.(ú™€”úÿÿÿÿ
+?	php:S1481"'Remove this unused "$_" local variable.(Ú—¿èşÿÿÿÿ
+?	php:S1481"'Remove this unused "$_" local variable.( º«üÿÿÿÿ
+:	php:S1481"'Remove this unused "$_" local variable.(Á‡æ´
+:	php:S1481"'Remove this unused "$_" local variable.(ï‡ñ‘
+?	php:S1481"'Remove this unused "$_" local variable.(Ï˜»„şÿÿÿÿ
+:	php:S1481"'Remove this unused "$_" local variable.(Æ¼‘È
+?	php:S1481"'Remove this unused "$_" local variable.(³Ö°Şşÿÿÿÿ
+?	php:S1481"'Remove this unused "$_" local variable.(¿«ƒüÿÿÿÿ
+php:S138"{This function "__construct" has 312 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ƒöÙƒ
+œphp:S138"„This function "getDefaultParameters" has 349 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ÅÛ‡ˆıÿÿÿÿ
+f	php:S1117"NRename "$parameters" which has the same name as the field declared at line 21.(óÛ¾úÿÿÿÿ

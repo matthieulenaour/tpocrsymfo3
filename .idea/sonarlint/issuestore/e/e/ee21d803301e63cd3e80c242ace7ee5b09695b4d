@@ -1,0 +1,58 @@
+
+rphp:S104"fFile "Request.php" has 2115 lines, which is greater than 1000 authorized. Split it into smaller files.
+;php:S108")Either remove or fill this block of code.(Öñëû
+u	php:S1448"cClass "Request" has 82 methods, which is greater than 20 authorized. Split it into smaller classes.(ıà%
+M	php:S1068"5Remove this unused "$isClientIpsValid" private field.(ÑİŒïúÿÿÿÿ
+g	php:S1142"OReduce the number of returns of this function 4, down to the maximum allowed 3.(Åˆ²æüÿÿÿÿ
+b	php:S1142"OReduce the number of returns of this function 5, down to the maximum allowed 3.(Òíÿş
+g	php:S1142"OReduce the number of returns of this function 5, down to the maximum allowed 3.(¯š‚¬ıÿÿÿÿ
+b	php:S1142"OReduce the number of returns of this function 4, down to the maximum allowed 3.(æÊõó
+g	php:S1142"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ªÏ¤®øÿÿÿÿ
+m	php:S1067"ZReduce the number of conditional operators (5) used in the expression (maximum allowed 3).(“êŒí
+l	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ˆ¤¬Ûùÿÿÿÿ
+l	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(æ³ê·ûÿÿÿÿ
+g	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(Òíÿş
+g	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(Ş›Äš
+g	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(æÊõó
+f	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(šé†:
+a	php:S1871"NThis branch's code block is the same as the block for the branch on line 1017.(è£–
+e	php:S1192"MDefine a constant instead of duplicating this literal "CONTENT_TYPE" 6 times.(æÍåµüÿÿÿÿ
+b	php:S1192"ODefine a constant instead of duplicating this literal "X_ORIGINAL_URL" 3 times.(ñ‰ÿş
+Y	php:S1192"FDefine a constant instead of duplicating this literal "https" 5 times.(áİäê
+g	php:S1192"ODefine a constant instead of duplicating this literal "ORIG_PATH_INFO" 3 times.(ÛŸ Éûÿÿÿÿ
+d	php:S1192"LDefine a constant instead of duplicating this literal "SERVER_PORT" 5 times.(Ô¸õ•şÿÿÿÿ
+`	php:S1192"HDefine a constant instead of duplicating this literal "OPTIONS" 3 times.(úàÜÉıÿÿÿÿ
+_	php:S1192"GDefine a constant instead of duplicating this literal "DELETE" 4 times.(¸ş±‚øÿÿÿÿ
+d	php:S1192"LDefine a constant instead of duplicating this literal "SCRIPT_NAME" 4 times.(­†ûÿÿÿÿ
+c	php:S1192"PDefine a constant instead of duplicating this literal "SCRIPT_FILENAME" 4 times.(­¦
+b	php:S1192"JDefine a constant instead of duplicating this literal "HTTP_HOST" 4 times.(ÎÌ¦’úÿÿÿÿ
+`	php:S1192"MDefine a constant instead of duplicating this literal "QUERY_STRING" 5 times.(—ˆòÈ
+i	php:S1192"QDefine a constant instead of duplicating this literal "ORIG_SCRIPT_NAME" 3 times.(¡ÇëÏúÿÿÿÿ
+_	php:S1192"LDefine a constant instead of duplicating this literal "REMOTE_ADDR" 3 times.(ÎüÙ
+d	php:S1192"LDefine a constant instead of duplicating this literal "REQUEST_URI" 4 times.(ê²«‰ûÿÿÿÿ
+g	php:S1192"ODefine a constant instead of duplicating this literal "REQUEST_METHOD" 5 times.(úÁÿ÷øÿÿÿÿ
+f	php:S1192"NDefine a constant instead of duplicating this literal "UNENCODED_URL" 4 times.(í”× ÿÿÿÿÿ
+^	php:S1192"FDefine a constant instead of duplicating this literal "query" 3 times.(”‘—èùÿÿÿÿ
+u	php:S1192"bDefine a constant instead of duplicating this literal "application/x-www-form-urlencoded" 3 times.(ØÓ³ä
+^	php:S1192"FDefine a constant instead of duplicating this literal "PATCH" 3 times.(‹ô‹®ûÿÿÿÿ
+g	php:S1192"TDefine a constant instead of duplicating this literal "IIS_WasUrlRewritten" 3 times.(æ²É
+f	php:S1192"NDefine a constant instead of duplicating this literal "X_REWRITE_URL" 3 times.(ŒÍŞşÿÿÿÿ
+\	php:S1192"IDefine a constant instead of duplicating this literal "PHP_SELF" 3 times.(ö£º
+Y	php:S1192"FDefine a constant instead of duplicating this literal "HTTPS" 3 times.(ÆÙ„
+[	php:S1192"HDefine a constant instead of duplicating this literal "_format" 5 times.(óÛØ³
+d	php:S1192"LDefine a constant instead of duplicating this literal "SERVER_NAME" 3 times.(üïù¡ùÿÿÿÿ
+^	php:S1192"FDefine a constant instead of duplicating this literal "TRACE" 3 times.(êíˆïşÿÿÿÿ
+6php:S125"Remove this commented out code.(ŒòÏñÿÿÿÿÿ
+d	php:S1117"LRename "$content" which has the same name as the field declared at line 149.(è³í‡ÿÿÿÿÿ
+_	php:S1117"LRename "$request" which has the same name as the field declared at line 109.(‹ÿ•–
+_	php:S1117"MRename "$basePath" which has the same name as the field declared at line 189.(»î”
+^	php:S1117"KRename "$method" which has the same name as the field declared at line 194.(â°è·
+f	php:S1117"NRename "$languages" which has the same name as the field declared at line 154.(ÜÅ¬òıÿÿÿÿ
+b	php:S1117"ORename "$requestUri" which has the same name as the field declared at line 179.(åÜ€
+d	php:S1117"LRename "$baseUrl" which has the same name as the field declared at line 184.(ÓÏ¨†şÿÿÿÿ
+b	php:S1117"ORename "$requestUri" which has the same name as the field declared at line 179.(Æ©Ñ
+_	php:S1117"LRename "$baseUrl" which has the same name as the field declared at line 184.(½‹ûÅ
+`	php:S1117"MRename "$basePath" which has the same name as the field declared at line 189.(™…È‹
+_	php:S1117"LRename "$baseUrl" which has the same name as the field declared at line 184.(½‹ûÅ
+g	php:S1117"ORename "$requestUri" which has the same name as the field declared at line 179.(ñ™Ú¾ûÿÿÿÿ
+e	php:S1117"MRename "$pathInfo" which has the same name as the field declared at line 174.(‚‚Äúÿÿÿÿ

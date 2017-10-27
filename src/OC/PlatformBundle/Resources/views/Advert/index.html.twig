@@ -1,0 +1,48 @@
+{# src/OC/PlatformBundle/Resources/views/Advert/index.html.twig #}
+
+{% extends "OCPlatformBundle::layout.html.twig" %}
+
+{% block title %}
+    Accueil - {{ parent() }}
+{% endblock %}
+
+{% block ocplatform_body %}
+
+    <h2>Liste des annonces</h2>
+
+    {% for advert in listAdverts %}
+
+        <div class="card mt-3 mb-3">
+            <div class="row m-0 p-0">
+                {% if advert.image is not null %}
+                    <div class="col-4 m-0 p-0 align-middle">
+                        <img src="{{ asset(advert.image.url) }}" alt="{{ advert.image.alt }}" class="img-thumbnail">
+                    </div>
+                {% endif %}
+                <div class="col m-0 p-0 align-middle">
+                    <div class="card-header m-0">
+                        <a href="{{ path('oc_platform_view', {'id': advert.id }) }}">
+                            <h5 class="card-title">
+                                {{ advert.title }}
+                                <small class="pull-right">par {{ advert.author }}, le {{ advert.date|date("d/m/y") }}</small>
+                            </h5>
+                        </a>
+                    </div>
+                    <div class="card-text p-3">
+                        {{ advert.content | raw }}
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    {% endfor %}
+    <ul class="pagination">
+        {# On utilise la fonction range(a, b) qui crée un tableau de valeurs entre a et b #}
+        {% for p in range(1, nbPages) %}
+            <li {% if p == page %} class="active"{% endif %}>
+                <a href="{{ path('oc_platform_home', {'page': p }) }}">{{ p }}</a>
+            </li>
+        {% endfor %}
+    </ul>
+{% endblock %}

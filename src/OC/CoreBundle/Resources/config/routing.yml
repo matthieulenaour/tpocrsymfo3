@@ -1,0 +1,11 @@
+oc_core_home:
+    path:      /
+    defaults:  { _controller: OCCoreBundle:Core:index }
+
+oc_core_contact:
+    path:      /contact
+    defaults: { _controller: OCCoreBundle:Core:contact }
+
+oc_core_menu:
+    path:      /menu/{limit}
+    defaults: { _controller: OCCoreBundle:Core:menu, limit:null }
